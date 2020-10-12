@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.form-input-error > div {
+    color: #be1535;
+    margin-bottom: 1.5em;
+  }
+  .form-input-success > div {
+    color: green;
+    margin-bottom: 1.5em;
+  }
+  .btn {
+      background-color: darkblue;
+    color:white;
+    border: none;
+      padding: 10px;
+      cursor: pointer;
+  }
