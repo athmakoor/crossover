@@ -1,6 +1,5 @@
 # prerequisite
 1. JAVA 8
-2. MySql 5
 3. Angular CLI
 4. node and NPM
 5. AWS client credentials in its default location
