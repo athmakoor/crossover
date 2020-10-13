@@ -14,3 +14,6 @@ To run the setup script
 # Run the application in browser
 1. Open chrome latest browser
 2. Open "http://localhost:9000"
+
+# Link to info file
+https://docs.google.com/document/d/1UMfP1YiiH4Mi0g7tiE1uzjnBG0YMruyjFiU8cGGqtwQ/edit?usp=sharing
